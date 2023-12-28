@@ -1,0 +1,2 @@
+- I'm Stavros Macrakis.
+- I'm employed by Amazon Web Services as a product manager on OpenSearch, specializing in search.
